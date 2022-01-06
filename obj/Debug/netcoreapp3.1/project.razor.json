@@ -14407,6 +14407,11 @@
       "FileKind": "mvc"
     },
     {
+      "FilePath": "c:\\Users\\herodf\\Desktop\\Senac\\UC07\\Biblioteca\\Views\\Usuarios\\cadastrorealizado.cshtml",
+      "TargetPath": "Views\\Usuarios\\cadastrorealizado.cshtml",
+      "FileKind": "mvc"
+    },
+    {
       "FilePath": "c:\\Users\\herodf\\Desktop\\Senac\\UC07\\Biblioteca\\Views\\Emprestimo\\Listagem.cshtml",
       "TargetPath": "Views\\Emprestimo\\Listagem.cshtml",
       "FileKind": "mvc"
@@ -14447,8 +14452,18 @@
       "FileKind": "mvc"
     },
     {
+      "FilePath": "c:\\Users\\herodf\\Desktop\\Senac\\UC07\\Biblioteca\\Views\\Usuarios\\NeedAdmin.cshtml",
+      "TargetPath": "Views\\Usuarios\\NeedAdmin.cshtml",
+      "FileKind": "mvc"
+    },
+    {
       "FilePath": "c:\\Users\\herodf\\Desktop\\Senac\\UC07\\Biblioteca\\Views\\Livro\\Cadastro.cshtml",
       "TargetPath": "Views\\Livro\\Cadastro.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\Users\\herodf\\Desktop\\Senac\\UC07\\Biblioteca\\Views\\Usuarios\\EditarUsuario.cshtml",
+      "TargetPath": "Views\\Usuarios\\EditarUsuario.cshtml",
       "FileKind": "mvc"
     },
     {
@@ -14472,8 +14487,23 @@
       "FileKind": "mvc"
     },
     {
+      "FilePath": "c:\\Users\\herodf\\Desktop\\Senac\\UC07\\Biblioteca\\Views\\Usuarios\\RegistrarUsuarios.cshtml",
+      "TargetPath": "Views\\Usuarios\\RegistrarUsuarios.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\Users\\herodf\\Desktop\\Senac\\UC07\\Biblioteca\\Views\\Usuarios\\listaDeusuarios.cshtml",
+      "TargetPath": "Views\\Usuarios\\listaDeusuarios.cshtml",
+      "FileKind": "mvc"
+    },
+    {
       "FilePath": "c:\\Users\\herodf\\Desktop\\Senac\\UC07\\Biblioteca\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
       "TargetPath": "Views\\Shared\\_ValidationScriptsPartial.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\Users\\herodf\\Desktop\\Senac\\UC07\\Biblioteca\\Views\\Usuarios\\ExcluirUsuario.cshtml",
+      "TargetPath": "Views\\Usuarios\\ExcluirUsuario.cshtml",
       "FileKind": "mvc"
     }
   ],
